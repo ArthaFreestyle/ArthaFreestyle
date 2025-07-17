@@ -65,7 +65,7 @@
 ###
 
 <div align="center"><img src="https://streak-stats.demolab.com?user=ArthaFreestyle" alt="GitHub Streak" />
-  <img src="https://streak-stats.demolab.com?user=ArthaFreestyle" alt="GitHub Streak" />
+
 </div>
 
 ###
