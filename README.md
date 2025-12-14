@@ -21,14 +21,6 @@
 
 ###
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=maurodesouza.maurodesouza&" alt="visitor badge"/>
-</div>
-
----
-
-###
-
 <h1 align="center">Crafting high-performance systems. 🚀</h1>
 
 ###
