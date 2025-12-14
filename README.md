@@ -1,71 +1,95 @@
 <div align="center">
-  <img height="150" src="https://avatars.githubusercontent.com/u/99931013?v=4"  />
+  <img height="150" src="https://avatars.githubusercontent.com/u/99931013?v=4" alt="Artha's Avatar" />
+  <br/>
+  <h3>
+    <img src="https://raw.githubusercontent.com/MariaLetta/free-gophers-pack/master/characters/png/cg_darth.png" height="30" alt="Gopher"/>
+    Backend & Systems Engineer
+    <img src="https://rustacean.net/assets/cuddlyferris.png" height="30" alt="Ferris Logo"/>
+  </h3>
 </div>
 
 ###
 
 <div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
+  <a href="https://www.linkedin.com/in/artha-gandhi-wardhana-aksa-724b42253/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=flat-square" height="25" alt="linkedin logo" />
+  </a>
+  <a href="YOUR_YOUTUBE_URL_HERE" target="_blank">
+    <img src="https://www.youtube.com/@arthajourney5774" height="25" alt="youtube logo" />
+  </a>
 </div>
 
 ###
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=maurodesouza.maurodesouza&"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=maurodesouza.maurodesouza&" alt="visitor badge"/>
 </div>
 
-###
-
-<h1 align="center">hey there 👋</h1>
+---
 
 ###
 
-<h3 align="left">👩‍💻  About Me</h3>
+<h1 align="center">Crafting high-performance systems. 🚀</h1>
 
 ###
 
-<p align="left">I'm Artha from Surabaya<br><br>- 🔭 I’m a student at Airlangga University<br>- 📚 I'm currently learning Blockchain<br>- ⚡ In my free time I playing some games</p>
+<h3 align="left">👨‍💻 About Me</h3>
 
 ###
 
-<h3 align="left">🛠 Language and tools</h3>
+<p align="left">
+Hi, I'm <b>Artha</b> from Surabaya. I'm a passionate backend engineer focused on building scalable, reliable, and efficient software systems.
+
+- 🔭 Currently studying at Airlangga University, focusing on distributed systems.
+- ⚡ My core expertise lies in <b>Go</b> for scalable microservices and <b>Rust</b> for performance-critical applications.
+- 📚 Deeply exploring <b>Blockchain architecture</b> and decentralized technologies.
+- 🎯 Interested in System Design, Concurrency, and Low-level programming.
+</p>
 
 ###
+
+<h3 align="left">🛠️ The Backend Arsenal</h3>
+
+<p align="left">My primary weapons of choice for building robust backends:</p>
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" height="40" alt="go logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="rust logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="ruby logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain-wordmark.svg" height="40" alt="dot-net logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" height="40" alt="firebase logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" height="40" alt="logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="circleci logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="kubernetes logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="40" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="docker logo"  />
+  <a href="https://go.dev/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" height="60" alt="go logo" />
+  </a>
+  <img width="20" />
+  <a href="https://www.rust-lang.org/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" height="60" alt="rust logo" />
+  </a>
 </div>
 
 ###
 
-<h3 align="left">🔥   My Stats :</h3>
+<h4 align="left">Infrastructure, Databases & Other Tools</h4>
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="kubernetes logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo" />
+  <img width="25" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="40" alt="redis logo" />
+  <img width="25" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" height="40" alt="lua logo" />
+    <img width="12" />
+  </div>
 
 ###
 
-<div align="center"><img src="https://streak-stats.demolab.com?user=ArthaFreestyle" alt="GitHub Streak" />
-
+<div align="center">
+  <br/>
+  <h3 align="center">📊 GitHub Stats</h3>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maurodesouza&layout=compact&theme=dracula&langs_count=6&hide=html,css" alt="Top Langs" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=maurodesouza&show_icons=true&theme=dracula&hide_border=true" alt="GitHub Stats" height="160"/>
 </div>
-
-###
