@@ -2,7 +2,7 @@
   <img height="150" src="https://avatars.githubusercontent.com/u/99931013?v=4" alt="Artha's Avatar" />
   <br/>
   <h3>
-    <img src="https://raw.githubusercontent.com/MariaLetta/free-gophers-pack/master/characters/png/cg_darth.png" height="30" alt="Gopher"/>
+    <img src="https://www.svgrepo.com/show/373635/go-gopher.svg" height="30" alt="Gopher"/>
     Backend & Systems Engineer
     <img src="https://rustacean.net/assets/cuddlyferris.png" height="30" alt="Ferris Logo"/>
   </h3>
@@ -58,7 +58,7 @@ Hi, I'm <b>Artha</b> from Surabaya. I'm a passionate backend engineer focused on
   </a>
   <img width="20" />
   <a href="https://www.rust-lang.org/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" height="60" alt="rust logo" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" height="60" alt="rust logo" />
   </a>
 </div>
 
