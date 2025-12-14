@@ -85,11 +85,3 @@ Hi, I'm <b>Artha</b> from Surabaya. I'm a passionate backend engineer focused on
     <img width="12" />
   </div>
 
-###
-
-<div align="center">
-  <br/>
-  <h3 align="center">📊 GitHub Stats</h3>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maurodesouza&layout=compact&theme=dracula&langs_count=6&hide=html,css" alt="Top Langs" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=maurodesouza&show_icons=true&theme=dracula&hide_border=true" alt="GitHub Stats" height="160"/>
-</div>
