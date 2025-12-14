@@ -14,8 +14,8 @@
   <a href="https://www.linkedin.com/in/artha-gandhi-wardhana-aksa-724b42253/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=flat-square" height="25" alt="linkedin logo" />
   </a>
-  <a href="YOUR_YOUTUBE_URL_HERE" target="_blank">
-    <img src="https://www.youtube.com/@arthajourney5774" height="25" alt="youtube logo" />
+  <a href="https://www.youtube.com/@arthajourney5774" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=flat-square" height="25" alt="youtube logo" />
   </a>
 </div>
 
